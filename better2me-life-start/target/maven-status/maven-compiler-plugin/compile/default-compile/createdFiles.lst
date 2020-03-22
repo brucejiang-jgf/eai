@@ -1,0 +1,10 @@
+com/better2me/life/start/wx/config/WxMaProperties$Config.class
+com/better2me/life/start/wx/controller/WxMaMediaController.class
+com/better2me/life/start/wx/controller/UserController.class
+com/better2me/life/start/wx/error/ErrorController.class
+com/better2me/life/start/wx/Better2MeApplication.class
+com/better2me/life/start/wx/config/WxMaConfiguration.class
+com/better2me/life/start/wx/error/ErrorPageConfiguration.class
+com/better2me/life/start/wx/config/WxMaProperties.class
+com/better2me/life/start/wx/utils/JsonUtils.class
+com/better2me/life/start/wx/controller/WxPortalController.class
